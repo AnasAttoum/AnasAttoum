@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-	<img src="https://streak-stats.demolab.com?user=AnasAttoum&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2CF2E2FF%2CA886E4" alt="Anas Attoum Github Streak" />
+	<img src="https://streak-stats.demolab.com?user=AnasAttoum&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2CF2E2FF%2CA886E4&background=45,f2e2ff,a886e4&ring=a855f7&fire=a855f7&currStreakLabel=4c1d95&sideLabels=4c1d95&dates=4c1d95"" alt="Anas Attoum Github Streak" />
 </div>
 
 <br/>
@@ -21,22 +21,15 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-	  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasAttoum&custom_title=Anas’s%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=f2e2ff&color=a855f7&line=a886e4&point=a855f7&area_color=d1bff1&title_color=6b21a8&area=true" alt="Anas Attoum GitHub Activity Graph" />
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnasAttoum&theme=midnight_purple&hide_border=true" alt="Anas Attoum Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnasAttoum&theme=midnight_purple&hide_border=true" alt="Anas Attoum Most Commit Language">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasAttoum&custom_title=Anas’s%20GitHub%20Activity%20Graph&hide_border=true&bg_color=000000&color=d1bff1&border_color=000000&line=a886e4&point=a855f7&area_color=d1bff1&title_color=a855f7&hide_border=true&area=true&radius=12" alt="Anas Attoum GitHub Activity Graph" />
+</div>
 
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzE0cDUzNnA2b2VobXNyM216em53anB6anJkcHg5aHphbW9qb2FveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bx3Cvt88j7PtM4SOaS/giphy.gif" width="100"/>
+<br/>
+
+<div align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnasAttoum&theme=midnight_purple&hide_border=true" height="180"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnasAttoum&theme=midnight_purple&hide_border=true" height="180"/>
 </div>
 
 
