@@ -4,27 +4,33 @@
 <br/>
 
 <div id="header" align="center">
-	<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2t5MnpzOHhoYnExa2xhMHA2eHk0amswMGJxMG5oNGh1dXh0OGh6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SNfZoZ039v19XOck4E/giphy.gif" width="100"/>
+	<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2t5MnpzOHhoYnExa2xhMHA2eHk0amswMGJxMG5oNGh1dXh0OGh6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SNfZoZ039v19XOck4E/giphy.gif" alt="Anas Attoum" width="100"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnasAttoum&theme=highcontrast&hide_border=true">
+	<img src="https://streak-stats.demolab.com?user=AnasAttoum&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2CF2E2FF%2CA886E4" alt="Anas Attoum Github Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnasAttoum&theme=midnight_purple&hide_border=true" alt="Anas Attoum Github Summary">
 </div>
 
 <br/>
 
 <table align="center">
   <tr>
-	  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasAttoum&custom_title=Anas’s%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+	  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasAttoum&custom_title=Anas’s%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=f2e2ff&color=a855f7&line=a886e4&point=a855f7&area_color=d1bff1&title_color=6b21a8&area=true" alt="Anas Attoum GitHub Activity Graph" />
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnasAttoum&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnasAttoum&theme=midnight_purple&hide_border=true" alt="Anas Attoum Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnasAttoum&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnasAttoum&theme=midnight_purple&hide_border=true" alt="Anas Attoum Most Commit Language">
     </td>
   </tr>
 </table>
