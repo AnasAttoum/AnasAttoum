@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-	<img src="https://streak-stats.demolab.com?user=AnasAttoum&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2CF2E2FF%2CA886E4&background=45,f2e2ff,a886e4&ring=a855f7&fire=a855f7&currStreakLabel=4c1d95&sideLabels=4c1d95&dates=4c1d95"" alt="Anas Attoum Github Streak" />
+	<img src="https://streak-stats.demolab.com?user=AnasAttoum&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2CF2E2FF%2CA886E4&background=45,f2e2ff,a886e4&ring=a855f7&fire=a855f7&currStreakLabel=4c1d95&sideLabels=4c1d95&dates=4c1d95&hide_current_streak=true&hide_longest_streak=true" alt="Anas Attoum Github Streak" />
 </div>
 
 <br/>
