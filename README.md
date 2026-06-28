@@ -15,6 +15,7 @@
 
 <br/>
 
+<!--
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnasAttoum&theme=midnight_purple&hide_border=true" alt="Anas Attoum Github Summary">
 </div>
@@ -26,6 +27,7 @@
 </div>
 
 <br/>
+-->
 
 <div align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnasAttoum&theme=midnight_purple&hide_border=true" height="180"/>
